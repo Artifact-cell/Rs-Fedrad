@@ -117,7 +117,6 @@ Results visualizations are stored in the `results/experiment_plots` directory, w
   - `pandas==1.5.3`
   - `scikit-learn==1.2.2`
 
-To install the required dependencies, use the following command:
 
 `pip install -r requirements.txt`
 
