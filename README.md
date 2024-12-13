@@ -122,4 +122,3 @@ Results visualizations are stored in the `results/experiment_plots` directory, w
 
 ---
 
-For detailed instructions and to contribute, please refer to the repository.
